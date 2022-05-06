@@ -2,4 +2,4 @@
 ---
 ***This is an informational text.***
 ---
-![Hello World]HelloWorld.png
+![Hello World](Pictures/HelloWorld.png)
